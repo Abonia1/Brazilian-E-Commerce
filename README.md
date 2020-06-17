@@ -35,7 +35,7 @@ These analysis made by orders, geolocation, payments, seller, and products datas
 
 
 ## Presentation File
-[link](https://github.com/Abonia1/Brazilian-E-Commerce/blob/master/Abonia%20Sojasingarayar-M2-IA_Project%20Brazilian%20E-Commerce.pptx)
+[link](https://github.com/Abonia1/Brazilian-E-Commerce/blob/master/Presentation_M2-IA_Project%20Brazilian%20E-Commerce.pptx)
 
 
 ## Future Work
