@@ -24,7 +24,7 @@ These analysis made by orders, geolocation, payments, seller, and products datas
 `pip install -r requirment.txt`
 
 ## MCD-Database Schema ER diagram
-<img src="https://github.com/Abonia1/Brazilian-E-Commerce/blob/master/img/EER Diagram.jpg" alt="alt text" width="600" height="500">
+<img src="https://github.com/Abonia1/Brazilian-E-Commerce/blob/master/img/EER%20diagram.jpg" alt="alt text" width="600" height="500">
 
 ## Algorithms Used
    * XGBoost Classifier
